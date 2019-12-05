@@ -1,0 +1,10 @@
+.weekDay,
+.eventbox,
+#leftScheduleCorner,
+.event {
+  display: inline-block;
+}
+
+.weekDay {
+  border: 1px solid green;
+}
